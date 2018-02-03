@@ -1,0 +1,18 @@
+ h1 {
+   background-color: black;
+   color: yellow;
+   width: 50%;
+ }
+
+ p {
+    background: rgb(208, 221, 208);
+ }
+
+ .nice {
+    font-weight: bold;
+ }
+
+  #nicer{
+    background: yellow;
+    /*background: red; comment out*/
+  }
